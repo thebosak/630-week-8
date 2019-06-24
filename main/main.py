@@ -4,7 +4,7 @@ Created on Jun 19, 2019
 @author: Brad Bosak
 '''
 
-import threading, time, datetime
+import threading, datetime
 
 def programstart():
     print("Program start time = ", datetime.datetime.now())
